@@ -7,6 +7,7 @@
 % felix.glang@tuebingen.mpg.de
 
 %% load demo datasets
+% download from https://edmond.mpdl.mpg.de/imeji/collection/dF8GJ92tyBNpfeY?q=
 load('linearCEST_demodata.mat');
 
 % contains:
